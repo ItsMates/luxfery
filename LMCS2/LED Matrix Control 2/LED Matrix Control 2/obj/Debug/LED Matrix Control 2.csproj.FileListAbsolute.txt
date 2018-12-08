@@ -1,0 +1,20 @@
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.exe.config
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.exe
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.pdb
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED_Matrix_Control_2.MainForm.resources
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED_Matrix_Control_2.Properties.Resources.resources
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.exe
+C:\Users\PC\Desktop\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.pdb
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.exe.config
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.exe
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\bin\Debug\LED Matrix Control 2.pdb
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csprojAssemblyReference.cache
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED_Matrix_Control_2.MainForm.resources
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED_Matrix_Control_2.Properties.Resources.resources
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csproj.GenerateResource.cache
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.csproj.CoreCompileInputs.cache
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.exe
+C:\Users\Mates\Desktop\Projekt DispLux\LMCS2\LMCS2-master\LED Matrix Control 2\LED Matrix Control 2\obj\Debug\LED Matrix Control 2.pdb

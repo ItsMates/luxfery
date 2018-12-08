@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LED_Matrix_Control_2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pixelsX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="pixelsY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="wbRed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="wbGreen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="wbBlue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="previousPixelOrderFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\tyler\Documents\LMCS2\LED Matrix Control 2\LED Matrix Control 2\bin\x86\Debug\order1.pxlod</Value>
+    </Setting>
+    <Setting Name="brightness" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="boxSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">640</Value>
+    </Setting>
+    <Setting Name="boxSizeMax" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1344</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
